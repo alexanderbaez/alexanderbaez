@@ -1,6 +1,6 @@
 ## Hola, Soy Alexander 👋
 
-![Image](https://github.com/user-attachments/assets/c165f0fa-6f11-4f12-ab1d-081e1cb45de2)
+![Image](https://github.com/user-attachments/assets/3907f2a4-cc8c-4fd2-aded-115e89eabf49)
 
 
 ```Java  
